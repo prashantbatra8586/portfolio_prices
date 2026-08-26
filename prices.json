@@ -1,24 +1,24 @@
 {
-  "updatedAt": "2026-08-26T05:20:22.336916+00:00",
+  "updatedAt": "2026-08-26T08:03:11.109705+00:00",
   "prices": {
     "TCS.NS": {
-      "price": 2284.3,
+      "price": 2267.9,
       "prevClose": 2296.2
     },
     "NIFTYBEES.NS": {
-      "price": 277.4,
+      "price": 276.75,
       "prevClose": 276.94
     },
     "ANANTRAJ.NS": {
-      "price": 608.2,
+      "price": 604.25,
       "prevClose": 613.15
     },
     "AZAD.NS": {
-      "price": 2842.9,
+      "price": 2843.6,
       "prevClose": 2804.5
     },
     "IDEAFORGE.NS": {
-      "price": 789.85,
+      "price": 799.3,
       "prevClose": 788.8
     },
     "LAXMIDENTL.NS": {
@@ -26,47 +26,47 @@
       "prevClose": 193.1
     },
     "MAZDOCK.NS": {
-      "price": 2583.9,
+      "price": 2648.0,
       "prevClose": 2610.0
     },
     "MOSCHIP.NS": {
-      "price": 206.34,
+      "price": 205.72,
       "prevClose": 205.35
     },
     "PGEL.NS": {
-      "price": 594.65,
+      "price": 588.95,
       "prevClose": 594.35
     },
     "SAGILITY.NS": {
-      "price": 44.73,
+      "price": 44.23,
       "prevClose": 43.02
     },
     "TATAGOLD.NS": {
-      "price": 15.63,
+      "price": 15.6,
       "prevClose": 15.59
     },
     "ANTHEM.NS": {
-      "price": 904.5,
+      "price": 909.15,
       "prevClose": 874.7
     },
     "BLSE.NS": {
-      "price": 319.3,
+      "price": 318.25,
       "prevClose": 312.1
     },
     "CDSL.NS": {
-      "price": 1418.1,
+      "price": 1431.1,
       "prevClose": 1394.8
     },
     "CESC.NS": {
-      "price": 154.02,
+      "price": 154.91,
       "prevClose": 154.0
     },
     "HDBFS.NS": {
-      "price": 690.0,
+      "price": 689.0,
       "prevClose": 687.6
     },
     "IRFC.NS": {
-      "price": 86.41,
+      "price": 86.1,
       "prevClose": 85.45
     },
     "IRB.NS": {
