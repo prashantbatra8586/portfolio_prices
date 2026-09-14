@@ -1,56 +1,56 @@
 {
-  "updatedAt": "2026-09-11T09:51:14.660714+00:00",
+  "updatedAt": "2026-09-14T04:05:24.957632+00:00",
   "prices": {
     "TCS.NS": {
-      "price": 2207.9,
+      "price": 2200.8,
       "prevClose": 2204.1
     },
     "NIFTYBEES.NS": {
-      "price": 267.48,
+      "price": 267.4,
       "prevClose": 267.17
     },
     "ANANTRAJ.NS": {
-      "price": 599.25,
+      "price": 597.1,
       "prevClose": 608.85
     },
     "AZAD.NS": {
-      "price": 2854.9,
+      "price": 2862.0,
       "prevClose": 2773.5
     },
     "IDEAFORGE.NS": {
-      "price": 734.15,
+      "price": 734.8,
       "prevClose": 743.45
     },
     "LAXMIDENTL.NS": {
-      "price": 203.01,
+      "price": 204.0,
       "prevClose": 202.56
     },
     "MAZDOCK.NS": {
-      "price": 2333.0,
+      "price": 2339.0,
       "prevClose": 2383.2
     },
     "MOSCHIP.NS": {
-      "price": 210.53,
+      "price": 210.35,
       "prevClose": 206.69
     },
     "PGEL.NS": {
-      "price": 544.0,
+      "price": 545.0,
       "prevClose": 542.0
     },
     "SAGILITY.NS": {
-      "price": 45.1,
+      "price": 45.2,
       "prevClose": 44.41
     },
     "TATAGOLD.NS": {
-      "price": 14.7,
+      "price": 14.74,
       "prevClose": 14.83
     },
     "ANTHEM.NS": {
-      "price": 940.0,
+      "price": 940.65,
       "prevClose": 942.3
     },
     "BLSE.NS": {
-      "price": 312.25,
+      "price": 310.0,
       "prevClose": 316.6
     },
     "CDSL.NS": {
@@ -58,24 +58,24 @@
       "prevClose": 1355.0
     },
     "CESC.NS": {
-      "price": 145.63,
+      "price": 145.45,
       "prevClose": 147.58
     },
     "HDBFS.NS": {
-      "price": 669.95,
+      "price": 670.85,
       "prevClose": 677.7
     },
     "IRFC.NS": {
-      "price": 81.01,
+      "price": 81.09,
       "prevClose": 81.08
     },
     "IRB.NS": {
-      "price": 19.64,
+      "price": 19.68,
       "prevClose": 19.91
     },
     "J": {
-      "price": 140.53,
-      "prevClose": 141.75
+      "price": 141.85,
+      "prevClose": 140.53
     }
   }
 }
