@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-09-21T09:27:38.118480+00:00",
+  "updatedAt": "2026-09-21T15:58:59.023655+00:00",
   "prices": {
     "TCS.NS": {
-      "price": 2138.5,
+      "price": 2128.7,
       "prevClose": 2105.0
     },
     "NIFTYBEES.NS": {
-      "price": 267.8,
+      "price": 267.76,
       "prevClose": 266.53
     },
     "ANANTRAJ.NS": {
-      "price": 597.45,
+      "price": 595.2,
       "prevClose": 606.15
     },
     "AZAD.NS": {
-      "price": 2775.9,
+      "price": 2764.9,
       "prevClose": 2790.3
     },
     "IDEAFORGE.NS": {
@@ -22,60 +22,60 @@
       "prevClose": 729.6
     },
     "LAXMIDENTL.NS": {
-      "price": 195.52,
+      "price": 194.9,
       "prevClose": 197.95
     },
     "MAZDOCK.NS": {
-      "price": 2242.9,
+      "price": 2232.0,
       "prevClose": 2280.0
     },
     "MOSCHIP.NS": {
-      "price": 206.18,
+      "price": 206.05,
       "prevClose": 208.89
     },
     "PGEL.NS": {
-      "price": 538.1,
+      "price": 536.55,
       "prevClose": 529.15
     },
     "SAGILITY.NS": {
-      "price": 46.2,
+      "price": 45.95,
       "prevClose": 45.66
     },
     "TATAGOLD.NS": {
-      "price": 14.77,
+      "price": 14.76,
       "prevClose": 14.85
     },
     "ANTHEM.NS": {
-      "price": 921.15,
+      "price": 917.45,
       "prevClose": 928.5
     },
     "BLSE.NS": {
-      "price": 316.9,
+      "price": 317.25,
       "prevClose": 316.5
     },
     "CDSL.NS": {
-      "price": 1363.6,
+      "price": 1361.0,
       "prevClose": 1390.0
     },
     "CESC.NS": {
-      "price": 143.6,
+      "price": 143.47,
       "prevClose": 141.53
     },
     "HDBFS.NS": {
-      "price": 682.05,
+      "price": 680.95,
       "prevClose": 698.4
     },
     "IRFC.NS": {
-      "price": 80.47,
+      "price": 80.22,
       "prevClose": 81.5
     },
     "IRB.NS": {
-      "price": 18.12,
+      "price": 18.1,
       "prevClose": 18.48
     },
     "J": {
-      "price": 143.4,
-      "prevClose": 144.16
+      "price": 142.635,
+      "prevClose": 143.4
     }
   }
 }
