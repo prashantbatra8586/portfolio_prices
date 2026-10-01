@@ -1,81 +1,81 @@
 {
-  "updatedAt": "2026-09-30T10:08:13.672530+00:00",
+  "updatedAt": "2026-10-01T10:36:37.714206+00:00",
   "prices": {
     "TCS.NS": {
-      "price": 2050.6,
-      "prevClose": 2032.4
+      "price": 2075.0,
+      "prevClose": 2050.6
     },
     "NIFTYBEES.NS": {
-      "price": 258.5,
-      "prevClose": 259.47
+      "price": 256.5,
+      "prevClose": 258.5
     },
     "ANANTRAJ.NS": {
-      "price": 598.9,
-      "prevClose": 602.3
+      "price": 577.85,
+      "prevClose": 598.9
     },
     "AZAD.NS": {
-      "price": 2963.2,
-      "prevClose": 2914.2
+      "price": 2860.9,
+      "prevClose": 2963.2
     },
     "IDEAFORGE.NS": {
-      "price": 730.95,
-      "prevClose": 719.7
+      "price": 735.0,
+      "prevClose": 730.95
     },
     "LAXMIDENTL.NS": {
-      "price": 191.42,
-      "prevClose": 192.49
+      "price": 193.87,
+      "prevClose": 191.42
     },
     "MAZDOCK.NS": {
-      "price": 2113.0,
-      "prevClose": 2087.1
+      "price": 2064.0,
+      "prevClose": 2113.0
     },
     "MOSCHIP.NS": {
-      "price": 201.25,
-      "prevClose": 198.47
+      "price": 198.03,
+      "prevClose": 201.25
     },
     "PGEL.NS": {
-      "price": 493.45,
-      "prevClose": 493.15
+      "price": 481.1,
+      "prevClose": 493.45
     },
     "SAGILITY.NS": {
-      "price": 42.58,
-      "prevClose": 42.54
+      "price": 43.17,
+      "prevClose": 42.58
     },
     "TATAGOLD.NS": {
-      "price": 14.3,
-      "prevClose": 14.19
+      "price": 14.28,
+      "prevClose": 14.3
     },
     "ANTHEM.NS": {
-      "price": 858.6,
-      "prevClose": 869.75
+      "price": 855.75,
+      "prevClose": 858.6
     },
     "BLSE.NS": {
-      "price": 328.6,
-      "prevClose": 321.1
+      "price": 322.05,
+      "prevClose": 328.6
     },
     "CDSL.NS": {
-      "price": 1264.0,
-      "prevClose": 1261.9
+      "price": 1242.5,
+      "prevClose": 1264.0
     },
     "CESC.NS": {
-      "price": 133.85,
-      "prevClose": 133.87
+      "price": 131.62,
+      "prevClose": 133.85
     },
     "HDBFS.NS": {
-      "price": 621.3,
-      "prevClose": 630.9
+      "price": 618.2,
+      "prevClose": 621.3
     },
     "IRFC.NS": {
-      "price": 79.28,
-      "prevClose": 80.26
+      "price": 77.06,
+      "prevClose": 79.28
     },
     "IRB.NS": {
-      "price": 17.49,
-      "prevClose": 16.98
+      "price": 17.0,
+      "prevClose": 17.49
     },
     "J": {
-      "price": 136.48,
-      "prevClose": 138.37
+      "price": 135.27,
+      "prevClose": 136.48
     }
   }
 }
