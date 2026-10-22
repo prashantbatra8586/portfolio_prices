@@ -1,44 +1,44 @@
 {
-  "updatedAt": "2026-10-22T09:03:14.847799+00:00",
+  "updatedAt": "2026-10-22T14:29:17.257268+00:00",
   "prices": {
     "TCS.NS": {
-      "price": 2504.5,
+      "price": 2506.9,
       "prevClose": 2529.0
     },
     "NIFTYBEES.NS": {
-      "price": 258.78,
+      "price": 258.94,
       "prevClose": 259.57
     },
     "ANANTRAJ.NS": {
-      "price": 468.85,
+      "price": 472.0,
       "prevClose": 481.65
     },
     "AZAD.NS": {
-      "price": 2548.4,
+      "price": 2555.8,
       "prevClose": 2538.8
     },
     "IDEAFORGE.NS": {
-      "price": 680.8,
+      "price": 679.8,
       "prevClose": 699.95
     },
     "LAXMIDENTL.NS": {
-      "price": 177.12,
+      "price": 176.69,
       "prevClose": 177.96
     },
     "MAZDOCK.NS": {
-      "price": 1908.6,
+      "price": 1922.3,
       "prevClose": 1997.5
     },
     "MOSCHIP.NS": {
-      "price": 169.8,
+      "price": 169.62,
       "prevClose": 173.28
     },
     "PGEL.NS": {
-      "price": 488.85,
+      "price": 489.65,
       "prevClose": 492.35
     },
     "SAGILITY.NS": {
-      "price": 45.1,
+      "price": 45.39,
       "prevClose": 44.41
     },
     "TATAGOLD.NS": {
@@ -46,36 +46,36 @@
       "prevClose": 13.89
     },
     "ANTHEM.NS": {
-      "price": 805.0,
+      "price": 800.75,
       "prevClose": 805.55
     },
     "BLSE.NS": {
-      "price": 142.1,
+      "price": 140.85,
       "prevClose": 141.85
     },
     "CDSL.NS": {
-      "price": 1222.5,
+      "price": 1225.0,
       "prevClose": 1237.2
     },
     "CESC.NS": {
-      "price": 129.43,
+      "price": 129.96,
       "prevClose": 131.62
     },
     "HDBFS.NS": {
-      "price": 510.2,
+      "price": 510.05,
       "prevClose": 512.25
     },
     "IRFC.NS": {
-      "price": 76.96,
+      "price": 77.0,
       "prevClose": 76.8
     },
     "IRB.NS": {
-      "price": 16.92,
+      "price": 16.79,
       "prevClose": 16.9
     },
     "J": {
-      "price": 142.49,
-      "prevClose": 139.67
+      "price": 142.6049,
+      "prevClose": 142.49
     }
   }
 }
