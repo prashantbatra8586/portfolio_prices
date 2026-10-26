@@ -1,81 +1,81 @@
 {
-  "updatedAt": "2026-10-26T09:31:44.592279+00:00",
+  "updatedAt": "2026-10-26T16:18:03.515367+00:00",
   "prices": {
     "TCS.NS": {
-      "price": 2529.8,
+      "price": 2535.0,
       "prevClose": 2530.0
     },
     "NIFTYBEES.NS": {
-      "price": 259.26,
+      "price": 259.4,
       "prevClose": 257.22
     },
     "ANANTRAJ.NS": {
-      "price": 459.25,
+      "price": 458.85,
       "prevClose": 460.4
     },
     "AZAD.NS": {
-      "price": 2544.1,
+      "price": 2547.8,
       "prevClose": 2478.7
     },
     "IDEAFORGE.NS": {
-      "price": 649.5,
+      "price": 651.0,
       "prevClose": 646.55
     },
     "LAXMIDENTL.NS": {
-      "price": 171.16,
+      "price": 171.87,
       "prevClose": 170.22
     },
     "MAZDOCK.NS": {
-      "price": 1882.6,
+      "price": 1875.0,
       "prevClose": 1860.0
     },
     "MOSCHIP.NS": {
-      "price": 165.96,
+      "price": 165.87,
       "prevClose": 164.75
     },
     "PGEL.NS": {
-      "price": 471.7,
+      "price": 475.0,
       "prevClose": 470.05
     },
     "SAGILITY.NS": {
-      "price": 44.52,
+      "price": 44.5,
       "prevClose": 44.18
     },
     "TATAGOLD.NS": {
-      "price": 13.67,
+      "price": 13.66,
       "prevClose": 13.63
     },
     "ANTHEM.NS": {
-      "price": 821.5,
+      "price": 822.25,
       "prevClose": 812.8
     },
     "BLSE.NS": {
-      "price": 142.35,
+      "price": 142.4,
       "prevClose": 145.9
     },
     "CDSL.NS": {
-      "price": 1194.4,
+      "price": 1196.0,
       "prevClose": 1188.5
     },
     "CESC.NS": {
-      "price": 125.35,
+      "price": 124.75,
       "prevClose": 124.79
     },
     "HDBFS.NS": {
-      "price": 498.1,
+      "price": 500.25,
       "prevClose": 504.85
     },
     "IRFC.NS": {
-      "price": 74.58,
+      "price": 74.4,
       "prevClose": 74.45
     },
     "IRB.NS": {
-      "price": 16.31,
+      "price": 16.26,
       "prevClose": 16.24
     },
     "J": {
-      "price": 145.06,
-      "prevClose": 146.26
+      "price": 146.615,
+      "prevClose": 145.06
     }
   }
 }
